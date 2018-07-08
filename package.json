@@ -1,0 +1,10 @@
+{
+  "name": "javascipt-tabs",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jsdom": "^11.8.0"
+  }
+}
